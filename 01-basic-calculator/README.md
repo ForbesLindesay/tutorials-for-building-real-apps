@@ -4,6 +4,8 @@ Today, we're going to build a super simple calculator. In and of itself, this mi
 
 ![Example Image](example.png)
 
+[Live Example](https://rawgit.com/ForbesLindesay/tutorials-for-building-real-apps/master/01-basic-calculator/sollution/index.html)
+
 Start by building out the basic page, you'll probably want most of the following elements:
 
  - `<label>` - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label
@@ -18,3 +20,5 @@ Once you've set up your page, add a script tag like `<script src="index.js"></sc
  - `parseFloat` - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseFloat
 
 If you get stuck, try posting a question on http://stackoverflow.com/.  Try and be as specific as you can about what you're trying to achieve and what you've tried so far.
+
+Try not to look at the sollution unless you are really really stuck.  It's better to ask on stack overflow for help with the specific problem you're struggling to solve.
