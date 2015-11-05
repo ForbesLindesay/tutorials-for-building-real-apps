@@ -1,4 +1,4 @@
-# Expense Tracker
+# List Maker
 
 Today we're going to build on what you've learnt so far to create a simple list making app.  We'll use React again, so you shouldn't need to modify the HTML file you used last time.  You also shouldn't touch the DOM manually except for your call to `ReactDOM.render`.
 
