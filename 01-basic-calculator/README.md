@@ -4,7 +4,7 @@ Today, we're going to build a super simple calculator. In and of itself, this mi
 
 ![Example Image](example.png)
 
-[Live Example](https://rawgit.com/ForbesLindesay/tutorials-for-building-real-apps/master/01-basic-calculator/sollution/index.html)
+[Live Example](https://rawgit.com/ForbesLindesay/tutorials-for-building-real-apps/master/01-basic-calculator/solution/index.html)
 
 Start by building out the basic page, you'll probably want most of the following elements:
 

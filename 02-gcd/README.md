@@ -4,7 +4,7 @@ That basic calculator works fine, but what if we wanted to do some more complex 
 
 ![Example Image](example.png)
 
-[Live Example](https://rawgit.com/ForbesLindesay/tutorials-for-building-real-apps/master/02-gcd/sollution/index.html)
+[Live Example](https://rawgit.com/ForbesLindesay/tutorials-for-building-real-apps/master/02-gcd/solution/index.html)
 
 JavaScript has no built in function for getting the greatest common divisor of two numbers, but implementing one is just a case of looking up euclids algorithm, which results in the code:
 

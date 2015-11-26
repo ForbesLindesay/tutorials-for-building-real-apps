@@ -6,7 +6,7 @@ We're going to use React to demonstrate how you might build a re-usable clock co
 
 ![Example Image](example.png)
 
-[Live Example](https://rawgit.com/ForbesLindesay/tutorials-for-building-real-apps/master/04-react-clock/sollution/index.html)
+[Live Example](https://rawgit.com/ForbesLindesay/tutorials-for-building-real-apps/master/04-react-clock/solution/index.html)
 
 ## HTML
 

@@ -4,7 +4,7 @@ Today we're going to build on what you've learnt so far to create a simple list 
 
 ![Example Image](example.png)
 
-[Live Example](https://rawgit.com/ForbesLindesay/tutorials-for-building-real-apps/master/05-list/sollution/index.html)
+[Live Example](https://rawgit.com/ForbesLindesay/tutorials-for-building-real-apps/master/05-list/solution/index.html)
 
 
 ## Basic Forms

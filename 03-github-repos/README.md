@@ -4,7 +4,7 @@ Applications are far more interesting when they allow you to communicate with th
 
 ![Example Image](example.png)
 
-[Live Example](https://rawgit.com/ForbesLindesay/tutorials-for-building-real-apps/master/03-github-repos/sollution/index.html)
+[Live Example](https://rawgit.com/ForbesLindesay/tutorials-for-building-real-apps/master/03-github-repos/solution/index.html)
 
 Your app should consist of an input to get a GitHub username, and a button to fetch the list of repositories.  It should then display a list of the names of the user's GitHub repos.
 
