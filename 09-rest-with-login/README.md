@@ -1,6 +1,6 @@
 # Rest with Login
 
-Our shared list app may be useful, but currently there's only one list for the entire world.  Lets work on adding some security to this app.
+Our shared list app may be useful, but currently there's only one list for the entire world.  Let's work on adding some security to this app.
 
 ## Part 1
 
