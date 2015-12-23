@@ -14,11 +14,16 @@ db.items.update(
   // increment the "count" property by 1
   {
     $inc: { 'count': 1}
-  }, {
-  upsert: true
-}).then(function () {
+  },
+  // if the item doesn't already exist, create it
+  {
+    upsert: true
+  }
+).then(function () {
+  // read the item with id "count"
   return db.items.findOne({_id: 'count'});
 }).done(function (item) {
   console.dir(item, {depth: 10, colors: true});
+  // close the connection to the database
   db.close();
 });
