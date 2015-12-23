@@ -1,0 +1,8 @@
+{
+  "name": "mongo",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "then-mongo": "^2.0.2"
+  }
+}
