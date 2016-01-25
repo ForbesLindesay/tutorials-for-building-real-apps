@@ -8,7 +8,7 @@ You can use `db.items.insert({userID: someUserID, value: 'some string'})` to ins
 
 ## 2. Querying Items
 
-You can query the items by doing `db.items.query({userID: someUserID})`.  This returns a promise for an array.
+You can query the items by doing `db.items.find({userID: someUserID})`.  This returns a promise for an array.
 
 ## 3. Deleting
 
